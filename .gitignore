@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large data files (raw CSVs are downloaded at runtime)
+data/*.csv
+
+# Trained model binaries
+models/*.pkl
